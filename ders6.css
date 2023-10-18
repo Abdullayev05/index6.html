@@ -1,0 +1,141 @@
+* { 
+margin: 0;
+padding: 0;
+list-style: none ;
+text-decoration: none;
+box-sizing: border-box;
+font-family: "Inter";
+}
+
+body {
+    background-color: whitesmoke;
+}
+form{
+    background-color: white;
+    width: 911px;
+    height: 982px;
+    margin: 20px auto;
+    border-radius: 24px 0 0 24px;
+}
+form #language {
+    padding-top: 30px;
+    text-align: right;
+    padding-right: 30px;
+}
+#opt {
+    width: 149px;
+    height: 39px;
+    margin-top: 11px;
+    margin-left: 762px;
+    padding: 10px;
+    color: #1A171787;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    border: 0;
+}
+form #form-main{
+    padding: 50px 120px 120px 120px;
+}
+.com {
+    width: 311px;
+    height: 49px;
+    top: 127px;
+    left: 165px;
+    margin-left: 36px;
+}
+.buttons{
+    width: 220px;
+    height: 56px;
+    top: 202px;
+    left: 175px;
+}
+#buttons button{
+    background-color: white;
+    width: 220px;
+    height: 56px;
+    border-radius: 8px;
+    border: 1px solid #0000001F;
+    margin-top:50px ;
+    margin-left: 36px;
+}
+#buttons button img{
+    width: 36px;
+    height: 36px;
+}
+#buttons button span{
+    line-height: 36px;
+    display: inline-block;
+    vertical-align: top;
+    font-weight: 400;
+    font-size: 16px;
+    color: #181818;
+}
+.or{
+ text-align: center;
+ width: 91px;
+ height: 49px;
+ line-height: 150px;
+ color: #1A171761;
+ font-weight: 800;
+ font-size: 24px;
+ margin-left: 230px;
+ margin-top: 30px;
+}
+.ad{
+    width: 502px;
+    height: 40px;
+    margin-left: 170px;
+    border-top:0 ;
+    border-left:0 ;
+    border-right:0 ;
+    font-size: 20px;
+    color: #1A171761;
+}
+.ema {
+    width: 502px;
+    height: 40px;
+    margin-left: 170px;
+    margin-top: 20px;
+    border-top:0 ;
+    border-left:0 ;
+    border-right:0;
+    font-size: 20px;
+    color: #1A171761; 
+}
+.pass {
+    width: 502px;
+    height: 40px;
+    margin-left: 170px;
+    margin-top: 20px;
+    border-top:0 ;
+    border-left:0 ;
+    border-right:0;
+    font-size: 20px;
+    color: #1A171761;
+}
+.create {
+    background-color: #279574;
+    width: 502px;
+    height: 40px;
+    margin-left: 170px;
+    left: 178px;
+    margin-top: 20px;
+    color: white;
+    font-size: 14px;
+    border-radius: 8px;
+    border: 0;
+}
+.already {
+    width: 502px;
+    height: 40px;
+    margin-left: 170px;
+    margin-top: 20px;
+    color: #0000001F;
+    font-size: 20px;
+}
+.login{
+    color: blue;
+    background-color: white;
+    border: 0;
+}
